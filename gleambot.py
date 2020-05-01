@@ -39,8 +39,8 @@ class Gleambot:
 
 
 if __name__=="__main__":
-    fname="rhutik"
-    email ="rhutikp311@gmail.com"
+    fname=""
+    email =""
     gb=Gleambot(fname,email)
     #gb.tpmail()
     gb.openweb()
